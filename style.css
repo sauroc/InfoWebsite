@@ -6,13 +6,22 @@
     font-family: 'Quicksand';
 }
 
-
-body {
-    /* font-weight: bold; */
-    background-color: darkcyan;
+html {
+    margin: 0;
 }
 
 
+body {
+    margin: 0; /*Need to figure out a way to format text with margins without edge gap */
+    background-color: #235347;
+}
+
+#header {
+    background-color: black;
+    width: 100%;
+    margin: 0;
+    text-align: center;
+}
 
 
 p {
