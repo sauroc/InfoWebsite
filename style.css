@@ -1,5 +1,18 @@
-p {
+* {
+    color: white;
     font-family: verdana;
+
+}
+
+body {
+    background-color: darkcyan;
+
+}
+
+
+
+
+p {
     font-size: 20px;
 
 }
