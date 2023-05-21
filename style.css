@@ -1,12 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+
 * {
     color: white;
-    font-family: verdana;
-
+    font-family: 'Quicksand';
 }
 
-body {
-    background-color: darkcyan;
 
+body {
+    /* font-weight: bold; */
+    background-color: darkcyan;
 }
 
 
@@ -14,5 +17,4 @@ body {
 
 p {
     font-size: 20px;
-
 }
