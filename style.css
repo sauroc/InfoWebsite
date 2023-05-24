@@ -4,9 +4,8 @@
 * {
     color: white;
     font-family: 'Quicksand';
+    margin-left: 20px;
 }
-
-
 
 body {
   /*Need to figure out a way to format text with margins without edge gap */
@@ -14,11 +13,11 @@ body {
 }
 
 #header {
-    width: 100%;
     text-align: left;
 }
 
 
-p {
-    font-size: 20px;
+h1 {
+    font-size: 60px;
+    font-weight: normal;
 }
