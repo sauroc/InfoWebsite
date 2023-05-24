@@ -3,16 +3,18 @@
 
 * {
     color: white;
+    margin: 0;
     font-family: 'Quicksand';
 }
 
-html {
+/* html {
     margin: 0;
-}
+} */
 
 
 body {
-    margin: 0; /*Need to figure out a way to format text with margins without edge gap */
+  /*Need to figure out a way to format text with margins without edge gap */
+    margin: 5px;
     background-color: #235347;
 }
 
